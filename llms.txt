@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-que-mienten/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Labios que mienten, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-que-mienten/) |
+| **Get License** | [Get a Licensing Quote for Labios que mienten, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-que-mienten/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
