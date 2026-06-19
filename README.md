@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-que-mienten/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Labios que mienten](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-que-mienten/) |
+| **Get License** | [Commercial Licensing for Labios que mienten](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-que-mienten/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Labios que mienten, pero saben a verdad
+> Tu veneno dulce me lleva a la ciudad
+> Bailamos lentos en la oscuridad
+> Solo tus caderas dicen la verdad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
